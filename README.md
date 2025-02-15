@@ -11,7 +11,7 @@ in THE ELECTRONIC JOURNAL OF COMBINATORICS summarizing the state of the art.
 
 ## Features
 
-The project features an interactive graphical user interface (GUI) built on Matplotlib. Users can adjust various parameters via the UI before starting the simulation, such as:
+The project features an interactive graphical user interface built on Matplotlib. Users can adjust various parameters via the UI before starting the simulation, such as:
 
 - **Container Area:** The total area of the larger square (e.g., 100 for a 10×10 container).
 - **Max Failures:** The maximum number of consecutive failed insertion attempts allowed before the simulation stops.
