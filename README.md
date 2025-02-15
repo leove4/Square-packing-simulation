@@ -29,7 +29,7 @@ In this simulation, candidate squares are inserted using a Gaussian distribution
 
 ## How to Run
 
-1. **install requirements**
+1. **Install requirements**
 
 - python 3.x
 - Matplotlib
@@ -40,7 +40,7 @@ In this simulation, candidate squares are inserted using a Gaussian distribution
    git clone https://github.com/leove4/Square-packing-simulation
    cd square-packing-simulation
 
-3. **run simulation.py**
+3. **Run simulation.py**
 
    ```bash
    python simulation.py
