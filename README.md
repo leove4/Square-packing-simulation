@@ -34,6 +34,9 @@ In this simulation, candidate squares are inserted using a Gaussian distribution
 - python 3.x
 - Matplotlib
 
+   ```bash
+   pip install matplotlib
+
 2. **Clone the Repository:**
 
    ```bash
